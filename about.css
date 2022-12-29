@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+
+.main_images { 
+    height: 500px;
+    width: 500px;
+}
+
+.text {
+    color: yellow;
+}
+
+.bold {
+    font-weight: bold;
+}
